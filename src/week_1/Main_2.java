@@ -11,7 +11,7 @@ public class Main_2 {
 		str2 = "World";
 		
 		System.out.println(str1 + str2);
-		
+		 
 		
 
 	}

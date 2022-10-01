@@ -9,7 +9,7 @@ public class Main_3 {
 		String str1;
 		str1 = "년";
 		
-		System.out.println(num1 + str1);
+		System.out.println(num1 + str1); 
 	}
 
 }
