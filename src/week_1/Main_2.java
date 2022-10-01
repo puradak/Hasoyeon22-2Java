@@ -6,7 +6,7 @@ public class Main_2 {
 		
 		String str1;
 		str1 = "Hello";
-		
+		 
 		String str2;
 		str2 = "World";
 		
