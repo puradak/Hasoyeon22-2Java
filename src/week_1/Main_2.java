@@ -4,7 +4,7 @@ public class Main_2 {
 
 	public static void main(String[] args) {
 		
-		String str1; 
+		String str1;  
 		str1 = "Hello";
 		 
 		String str2;
