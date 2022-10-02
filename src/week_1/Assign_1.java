@@ -5,7 +5,7 @@ public class Assign_1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int num1, num2, sum;
+		int num1, num2;
 		
 		num1 = 10;
 		num2 = 40;
