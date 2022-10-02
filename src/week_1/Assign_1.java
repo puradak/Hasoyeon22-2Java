@@ -20,7 +20,6 @@ public class Assign_1 {
 		int year_value = 2022;
 		String year_key = "년";
 		System.out.println(year_value + year_key);
-
 	}
 
 }
